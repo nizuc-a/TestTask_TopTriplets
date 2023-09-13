@@ -1,0 +1,14 @@
+D:\C# projects\TestTask_TopTriplets\bin\Debug\net7.0\TestTask_TopTriplets.exe
+D:\C# projects\TestTask_TopTriplets\bin\Debug\net7.0\TestTask_TopTriplets.deps.json
+D:\C# projects\TestTask_TopTriplets\bin\Debug\net7.0\TestTask_TopTriplets.runtimeconfig.json
+D:\C# projects\TestTask_TopTriplets\bin\Debug\net7.0\TestTask_TopTriplets.dll
+D:\C# projects\TestTask_TopTriplets\bin\Debug\net7.0\TestTask_TopTriplets.pdb
+D:\C# projects\TestTask_TopTriplets\obj\Debug\net7.0\TestTask_TopTriplets.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\TestTask_TopTriplets\obj\Debug\net7.0\TestTask_TopTriplets.AssemblyInfoInputs.cache
+D:\C# projects\TestTask_TopTriplets\obj\Debug\net7.0\TestTask_TopTriplets.AssemblyInfo.cs
+D:\C# projects\TestTask_TopTriplets\obj\Debug\net7.0\TestTask_TopTriplets.csproj.CoreCompileInputs.cache
+D:\C# projects\TestTask_TopTriplets\obj\Debug\net7.0\TestTask_TopTriplets.dll
+D:\C# projects\TestTask_TopTriplets\obj\Debug\net7.0\refint\TestTask_TopTriplets.dll
+D:\C# projects\TestTask_TopTriplets\obj\Debug\net7.0\TestTask_TopTriplets.pdb
+D:\C# projects\TestTask_TopTriplets\obj\Debug\net7.0\TestTask_TopTriplets.genruntimeconfig.cache
+D:\C# projects\TestTask_TopTriplets\obj\Debug\net7.0\ref\TestTask_TopTriplets.dll
