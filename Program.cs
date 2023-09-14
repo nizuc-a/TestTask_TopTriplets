@@ -12,10 +12,11 @@ public static class Program
 
     public static void Main()
     {
-        if (!TryGetPath(out var filePath))
-           return;
+        //if (!TryGetPath(out var filePath))
+         //  return;
         Stopwatch stopwatch = new Stopwatch();
-
+        var filePath = @"D:\C# projects\TestTask_TopTriplets\Test3.txt";
+        
         stopwatch.Start();
         FillTripletsDictionary(filePath);
         PrintTop10Triplets();
@@ -91,10 +92,7 @@ public static class Program
             var triplet = text.Substring(i, 3);
             if (char.IsLetter(triplet[0]) && char.IsLetter(triplet[1]) && char.IsLetter(triplet[2]))
             {
-                if (tripletsCount.ContainsKey(triplet))
-                    tripletsCount[triplet]++;
-                else
-                    tripletsCount[triplet] = 1;
+                tripletsCount.AddOrUpdate(triplet, 1, (_, count) => count + 1);
             }
         });
     }
